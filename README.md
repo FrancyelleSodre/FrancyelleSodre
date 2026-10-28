@@ -71,7 +71,7 @@
 
 <div align="center">
 
-  <!-- Cards de Estatísticas com o tema Tokyonight -->
+  <!-- Cards de Estatísticas Oficiais (Anurag Hazra / Vercel Stats) -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" align="center" style="width: 48%;" />
     <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center" style="width: 48%;" />
