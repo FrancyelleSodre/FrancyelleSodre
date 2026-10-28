@@ -69,7 +69,7 @@
 
 ## 📊 GitHub Stats ⚡
 
-<p>
+<p align="center">
   <img
     align="left"
     alt="GitHub Stats"
@@ -85,6 +85,9 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
+
+<!-- Quebra de linha limpa para o layout não atropelar as seções de baixo -->
+<br clear="all"/>
 
 ---
 
