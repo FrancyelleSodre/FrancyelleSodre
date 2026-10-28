@@ -71,9 +71,11 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Perfil-Ativo-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/followers/FrancyelleSodre?style=for-the-badge&logo=github&color=0d1117" />
-  <img src="https://img.shields.io/github/repos/FrancyelleSodre?style=for-the-badge&logo=github&color=1f2428" />
+  <!-- Cards de Estatísticas com o tema Tokyonight -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" align="center" style="width: 48%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center" style="width: 48%;" />
+  </p>
 
 </div>
 
