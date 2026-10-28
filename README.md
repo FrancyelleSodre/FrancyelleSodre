@@ -67,27 +67,17 @@
 
 ---
 
-## 📊 GitHub Stats ⚡
+## 📊 Estatísticas do GitHub ⚡
 
-<p align="center">
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+<div align="center">
 
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
+  <!-- Estatísticas em bloco centralizado e seguro contra quebras -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" width="48%" />
+  </p>
 
-<!-- Quebra de linha limpa para o layout não atropelar as seções de baixo -->
-<br clear="all"/>
+</div>
 
 ---
 
