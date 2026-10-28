@@ -87,12 +87,6 @@
 
 </div>
 
-<!-- Truque de CSS para forçar fundo preto no container principal do GitHub -->
-<details open>
-<summary></summary>
-<style>
-  body, .gist, .markdown-body {
-    background-color: #0d1117 !important;
-  }
+
 </style>
 </details>
