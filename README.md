@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Nova imagem da Equipe Rocket no topo -->
+  <!-- Imagem da Equipe Rocket no topo -->
   <img src="https://www.pngkey.com/png/full/224-2246823_pokemon-team-rocket-team-rocket.png" width="400" alt="Equipe Rocket Banner" style="border-radius: 8px;" />
 
   <h1>Francyelle Sodré</h1>
@@ -38,16 +38,33 @@
 
 ---
 
-## 🛠️ Tecnologias & Competências
+## 💻 Tech Stack & Competências:
 
 <div align="center">
 
-| 🗄️ Banco de Dados & Suporte | 💻 Desenvolvimento & Web | 📊 Regras de Negócio & Ferramentas |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredatastudio/azuredatastudio-original.svg" width="40" height="40" alt="ERP" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Google Workspace" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Helpdesk/OS" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" /> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredatastudio/azuredatastudio-original.svg" width="40" height="40" alt="IBExpert" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" /> |
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ERP-FF5722?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helpdesk_N1/N2-00599C?style=for-the-badge&logo=zendesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBExpert-CC292B?style=for-the-badge&logo=safe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fiscal_%26_Contábil-2E8B57?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
 
 </div>
 
@@ -67,7 +84,8 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" width="40" alt="Meowth Icon" />
+  <!-- Meowth animado GIF no rodapé -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif" width="80" alt="Meowth Gif Final" />
   <h3>Preparados para a confusão... e para novos desafios!</h3>
   <p>Sinta-se à vontade para explorar meus repositórios ou entrar em contato!</p>
 
