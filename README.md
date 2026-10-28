@@ -71,9 +71,9 @@
 
 <div align="center">
 
-  <!-- Estatísticas com o tema 'yellowpad' para manter a harmonia visual -->
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=yellowpad&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&layout=compact&theme=yellowpad&hide_border=true" height="170" />
+  <!-- Estatísticas atualizadas com o tema 'tokyonight' (perfeito para fundo escuro) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
