@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Banner do Meowth / Título estilizado -->
   <h1><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" width="50" style="vertical-align: middle;" /> Olá, eu sou a Francyelle Sodré! 🐾</h1>
 
   <h3>Analista de Suporte TI | Suporte N1/N2 | Banco de Dados & SQL | ERP</h3>
 
-  <!-- Badges de Contato -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francyelle-sodre)
   [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francyellesodre@hotmail.com)
 
@@ -17,7 +15,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png" width="180" alt="Meowth" />
 
-- 🎓 Atualmente cursando o **5º período de Gestão de Tecnologia da Infomação** na Faculdade Estácio de Sá (Previsão: 12/2026)[cite: 1].
+- 🎓 Atualmente cursando o **5º período de Gestão de Tecnologia da Informação** na Faculdade Estácio de Sá (Previsão: 12/2026)[cite: 1].
 - 💡 Experiência sólida em **Suporte Técnico, Helpdesk, Análise de Banco de Dados (SQL) e Implantação de Sistemas ERP** (Módulos Fiscal, PDV, Commerce)[cite: 1].
 - 💼 Bagagem consistente em rotinas administrativas, faturamento e compliance fiscal (NF-e, CT-e, SPED, Sintegra, ICMS, IPI, ISS)[cite: 2, 3].
 - 🚀 Apaixonada por resolver problemas críticos de forma ágil, unindo forte capacidade analítica e atendimento humanizado ao cliente.
@@ -43,6 +41,8 @@
 
 <div align="center">
 
+  <!-- O tema 'yellowpad' traz o fundo amarelado/creme que combina perfeitamente com a paleta do Meowth -->
+  <!-- Lembre-se de substituir 'SEU-USUARIO-GITHUB' pelo seu username real -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=yellowpad&hide_border=true&include_all_commits=true&count_private=true" />
   
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=yellowpad&hide_border=true" />
