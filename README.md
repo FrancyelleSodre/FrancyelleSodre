@@ -67,15 +67,28 @@
 
 ---
 
-## 📊 Estatísticas do GitHub ⚡
+### 🤖 Estatísticas
 
-<div align="center">
+<br/>
 
-  <img src="https://img.shields.io/badge/Perfil-Ativo-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/followers/FrancyelleSodre?style=for-the-badge&logo=github&color=0d1117" />
-  <img src="https://img.shields.io/badge/Foco_Principal-Suporte_%26_SQL-blue?style=for-the-badge&logo=codeforces" />
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
 
-</div>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
+
+<br clear="all"/>
 
 ---
 
