@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Nova imagem do Meowth no topo -->
-  <img src="https://img.odcdn.com.br/wp-content/uploads/2025/08/meowth-1920x1080.jpg" width="450" alt="Meowth Banner" style="border-radius: 8px;" />
+  <!-- Imagem da Equipe Rocket no topo -->
+  <img src="https://images.tcdn.com.br/img/img_prod/1049911/adesivo_decorativo_pokemon_equipe_rocket_1079_1_4c30c8227b147321e07b22a07c088ef3.jpg" width="450" alt="Equipe Rocket Banner" style="border-radius: 8px;" />
 
   <h1>Francyelle Sodré</h1>
   <p><b>Analista de Suporte TI | Suporte N1/N2 | Banco de Dados & SQL | ERP</b></p>
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-  <!-- Estatísticas com o tema 'yellowpad' integrando com os tons dourados do Meowth -->
+  <!-- Estatísticas com o tema 'yellowpad' para manter a harmonia visual -->
   <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=yellowpad&hide_border=true&include_all_commits=true&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&layout=compact&theme=yellowpad&hide_border=true" height="170" />
 
@@ -68,7 +68,7 @@
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" width="40" alt="Meowth Icon" />
-  <h3>Vamos conectar e construir soluções juntos?</h3>
+  <h3>Preparados para a confusão... e para novos desafios!</h3>
   <p>Sinta-se à vontade para explorar meus repositórios ou entrar em contato!</p>
 
 </div>
