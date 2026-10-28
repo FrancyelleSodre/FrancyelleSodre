@@ -67,13 +67,15 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats ⚡
 
 <div align="center">
 
-  <img src="https://img.shields.io/github/followers/FrancyelleSodre?style=for-the-badge&logo=github&color=2ea44f" />
-  <img src="https://img.shields.io/github/repos/FrancyelleSodre?style=for-the-badge&logo=github&color=0366d6" />
-  <img src="https://img.shields.io/badge/Main_Focus-Suporte_%26_SQL-orange?style=for-the-badge&logo=codeforces" />
+  <!-- Estatísticas no formato exato da sua referência (Tema Tokyonight) -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  </p>
 
 </div>
 
