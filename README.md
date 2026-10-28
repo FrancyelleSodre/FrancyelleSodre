@@ -4,7 +4,7 @@
   <img src="https://www.pngkey.com/png/full/224-2246823_pokemon-team-rocket-team-rocket.png" width="400" alt="Equipe Rocket Banner" style="border-radius: 8px;" />
 
   <h1>Francyelle Sodré</h1>
-  <p><b>Gestão TI | Suporte N1/N2 | ERP | Banco de Dados & SQL </b></p>
+  <p><b>Analista de Suporte TI | Suporte N1/N2 | Banco de Dados & SQL | ERP</b></p>
 
   <p>
     <a href="https://linkedin.com/in/francyelle-sodre"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -71,11 +71,9 @@
 
 <div align="center">
 
-  <!-- Estatísticas no formato exato da sua referência (Tema Tokyonight) -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  </p>
+  <img src="https://img.shields.io/badge/Perfil-Ativo-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/FrancyelleSodre?style=for-the-badge&logo=github&color=0d1117" />
+  <img src="https://img.shields.io/github/repos/FrancyelleSodre?style=for-the-badge&logo=github&color=1f2428" />
 
 </div>
 
