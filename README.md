@@ -74,7 +74,7 @@
 
 <div align="center">
 
-  <!-- Estatísticas com o tema 'yellowpad' para manter a harmonia visual -->
+  <!-- Estatísticas com o seu usuário correto -->
   <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=yellowpad&hide_border=true&include_all_commits=true&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&layout=compact&theme=yellowpad&hide_border=true" height="170" />
 
