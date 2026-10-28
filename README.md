@@ -4,7 +4,7 @@
   <img src="https://www.pngkey.com/png/full/224-2246823_pokemon-team-rocket-team-rocket.png" width="400" alt="Equipe Rocket Banner" style="border-radius: 8px;" />
 
   <h1>Francyelle Sodré</h1>
-  <p><b>Gestão TI | Suporte ERP N1/N2 | Banco de Dados & SQL </b></p>
+  <p><b>Gestão TI | Suporte N1/N2 | ERP | Banco de Dados & SQL </b></p>
 
   <p>
     <a href="https://linkedin.com/in/francyelle-sodre"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
