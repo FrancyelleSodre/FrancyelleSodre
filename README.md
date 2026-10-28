@@ -38,7 +38,7 @@
 
 ---
 
-## 💻 Tech Stack 
+## 💻 Tech Stack & Competências:
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 <p>
   <img src="https://img.shields.io/badge/ERP-FF5722?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Helpdesk_N1/N2-00599C?style=for-the-badge&logo=zendesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manutenção_de_Computadores-2C3E50?style=for-the-badge&logo=gnome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manutenção_de_Computadores-2C3E50?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/IBExpert-CC292B?style=for-the-badge&logo=safe&logoColor=white" />
   <img src="https://img.shields.io/badge/Fiscal_%26_Contábil-2E8B57?style=for-the-badge&logo=googlesheets&logoColor=white" />
 </p>
