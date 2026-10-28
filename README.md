@@ -21,9 +21,9 @@
   <tr>
     <td width="75%">
       <ul>
-        <li>🎓 Atualmente cursando o <b>5º período de Gestão de Tecnologia da Informação</b> na Faculdade Estácio de Sá (Previsão: 12/2026)</li>
-        <li>💡 Sólida experiência em <b>Suporte Técnico, Helpdesk, Análise de Banco de Dados (SQL) e Implantação de Sistemas ERP</b> (Módulos Fiscal, PDV, Commerce)</li>
-        <li>💼 Bagagem consistente em rotinas administrativas, faturamento e compliance fiscal (NF-e, CT-e, SPED, Sintegra, ICMS, IPI, ISS).</li>
+        <li>🎓 Atualmente cursando o <b>5º período de Gestão de Tecnologia da Informação</b> na Faculdade Estácio de Sá (Previsão: 12/2026)[cite: 1].</li>
+        <li>💡 Sólida experiência em <b>Suporte Técnico, Helpdesk, Análise de Banco de Dados (SQL) e Implantação de Sistemas ERP</b> (Módulos Fiscal, PDV, Commerce)[cite: 1].</li>
+        <li>💼 Bagagem consistente em rotinas administrativas, faturamento e compliance fiscal (NF-e, CT-e, SPED, Sintegra, ICMS, IPI, ISS)[cite: 2, 3].</li>
         <li>🚀 Focada na resolução ágil de problemas críticos, unindo capacidade analítica apurada e atendimento humanizado.</li>
       </ul>
     </td>
@@ -56,10 +56,14 @@
   <img src="https://img.shields.io/badge/Helpdesk_N1/N2-00599C?style=for-the-badge&logo=zendesk&logoColor=white" />
   <img src="https://img.shields.io/badge/IBExpert-CC292B?style=for-the-badge&logo=safe&logoColor=white" />
   <img src="https://img.shields.io/badge/Fiscal_%26_Contábil-2E8B57?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </p>
 
 </div>
@@ -70,7 +74,7 @@
 
 <div align="center">
 
-  <!-- Estatísticas com o seu usuário correto -->
+  <!-- Estatísticas com o tema 'yellowpad' para manter a harmonia visual -->
   <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=yellowpad&hide_border=true&include_all_commits=true&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&layout=compact&theme=yellowpad&hide_border=true" height="170" />
 
@@ -86,3 +90,13 @@
   <p>Sinta-se à vontade para explorar meus repositórios ou entrar em contato!</p>
 
 </div>
+
+<!-- Truque de CSS para forçar fundo preto no container principal do GitHub -->
+<details open>
+<summary></summary>
+<style>
+  body, .gist, .markdown-body {
+    background-color: #0d1117 !important;
+  }
+</style>
+</details>
