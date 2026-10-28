@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Meowth de Alola no topo centralizado -->
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png" width="110" alt="Meowth Alola" />
+  <!-- Nova imagem do Meowth no topo -->
+  <img src="https://img.odcdn.com.br/wp-content/uploads/2025/08/meowth-1920x1080.jpg" width="450" alt="Meowth Banner" style="border-radius: 8px;" />
 
   <h1>Francyelle Sodré</h1>
   <p><b>Analista de Suporte TI | Suporte N1/N2 | Banco de Dados & SQL | ERP</b></p>
@@ -44,7 +44,7 @@
 
 | 🗄️ Banco de Dados & Suporte | 💻 Desenvolvimento & Web | 📊 Regras de Negócio & Ferramentas |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL/PostgreSQL" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredatastudio/azuredatastudio-original.svg" width="40" height="40" alt="ERP" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredatastudio/azuredatastudio-original.svg" width="40" height="40" alt="ERP" /> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Google Workspace" /> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Helpdesk/OS" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" /> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredatastudio/azuredatastudio-original.svg" width="40" height="40" alt="IBExpert" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" /> |
