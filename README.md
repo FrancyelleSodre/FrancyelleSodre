@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Imagem da Equipe Rocket no topo -->
-  <img src="https://images.tcdn.com.br/img/img_prod/1049911/adesivo_decorativo_pokemon_equipe_rocket_1079_1_4c30c8227b147321e07b22a07c088ef3.jpg" width="450" alt="Equipe Rocket Banner" style="border-radius: 8px;" />
+  <!-- Gif animado da Equipe Rocket no topo -->
+  <img src="https://i.pinimg.com/originals/34/95/89/3495896775dff68c4a683a7994b17135.gif" width="450" alt="Equipe Rocket Animation" style="border-radius: 8px;" />
 
   <h1>Francyelle Sodré</h1>
   <p><b>Analista de Suporte TI | Suporte N1/N2 | Banco de Dados & SQL | ERP</b></p>
