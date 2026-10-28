@@ -71,11 +71,9 @@
 
 <div align="center">
 
-  <!-- Estatísticas em bloco centralizado e seguro contra quebras -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" width="48%" />
-  </p>
+  <img src="https://img.shields.io/badge/Perfil-Ativo-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/FrancyelleSodre?style=for-the-badge&logo=github&color=0d1117" />
+  <img src="https://img.shields.io/badge/Foco_Principal-Suporte_%26_SQL-blue?style=for-the-badge&logo=codeforces" />
 
 </div>
 
