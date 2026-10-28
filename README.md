@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Imagem da Equipe Rocket oficial no topo -->
-  <img src="https://static.wikia.nocookie.net/kids-worlds-adventures/images/4/4e/Team_Rocket.png/revision/latest?cb=20131206155731" width="380" alt="Equipe Rocket Banner" style="border-radius: 8px;" />
+  <!-- Nova imagem da Equipe Rocket no topo -->
+  <img src="https://www.pngkey.com/png/full/224-2246823_pokemon-team-rocket-team-rocket.png" width="400" alt="Equipe Rocket Banner" style="border-radius: 8px;" />
 
   <h1>Francyelle Sodré</h1>
   <p><b>Analista de Suporte TI | Suporte N1/N2 | Banco de Dados & SQL | ERP</b></p>
@@ -47,7 +47,7 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredatastudio/azuredatastudio-original.svg" width="40" height="40" alt="ERP" /> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Google Workspace" /> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Helpdesk/OS" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredatastudio/azuredatastudio-original.svg" width="40" height="40" alt="IBExpert" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredatastudio/azuredatastudio-original.svg" width="40" height="40" alt="IBExpert" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" /> |
 
 </div>
 
