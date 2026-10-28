@@ -71,9 +71,9 @@
 
 <div align="center">
 
-  <!-- Estatísticas atualizadas com o tema 'tokyonight' (perfeito para fundo escuro) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancyelleSodre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancyelleSodre&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://img.shields.io/github/followers/FrancyelleSodre?style=for-the-badge&logo=github&color=2ea44f" />
+  <img src="https://img.shields.io/github/repos/FrancyelleSodre?style=for-the-badge&logo=github&color=0366d6" />
+  <img src="https://img.shields.io/badge/Main_Focus-Suporte_%26_SQL-orange?style=for-the-badge&logo=codeforces" />
 
 </div>
 
